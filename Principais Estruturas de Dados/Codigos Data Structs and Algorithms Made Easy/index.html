@@ -1,0 +1,158 @@
+<TITLE>Source Code for Data Structures and Algorithm Analysis in C++ (Fourth Edition)</TITLE>
+
+<BODY>
+<H1>
+Source Code for Data Structures and Algorithm Analysis in C++ (Fourth Edition)
+</H1>
+
+
+<p>
+Here is the source code for
+<I>
+Data Structures and Algorithm Analysis in C++ (Fourth Edition),
+</I>
+by Mark Allen Weiss.
+<B>The materials here are copyrighted.</B>
+
+<p>
+<B>
+Many C++11 features are used.  I have successfully compiled and tested the programs under
+g++ 4.6.2.
+IMPORTANT: the code WILL NOT compile on pre-C++11 compilers.
+<ol>
+<li>If you do not have a C++11 compiler or do not want to deal with C++11 yet, use the
+<A HREF="http://users.cis.fiu.edu/~weiss/dsaa_c++3/code/">code from the 3rd edition</A>.
+<li>If you have a C++11 compiler, some features still might not be available.
+Check <A HREF="http://wiki.apache.org/stdcxx/C%2B%2B0xCompilerSupport">compiler support for C++11 here</A>.
+Prominent features that are used include: <tt>auto</tT>,
+uniform initialization (i.e. the use of braces instead of the
+prior style of parentheses in constructor initialization lists), <tt>long long</tt>, 
+deduced return types (occasionally), <tt>nullptr</tt> (define to 0 if not supported), 
+right angle brackets (<tT>&gt;&gt;</tt> is now ok in nested template instantiation), rvalue references and moves, 
+range-based for loops, and some library features such as the random number generation facility.
+<li>Please read Section 1.6.5, pg 44, to understand the simplifications made to present the code in the text
+(to avoid having
+code run across many pages with redundant references to figures).
+Except as noted, code below can be compiled by downloading everything and then compiling a test program that has
+provided a <tt>main</tt> and has <tt>include</tt>d the appropriate .h and .cpp file. For example, this is a normal compilation first and then
+a second example (that illustrates one of the
+occasional cases where a second file is needed).
+<PRE>
+  g++ -std=c++0x TestAvlTree.cpp
+  g++ -std=c++0x TestIntCell.cpp IntCell.cpp
+</PRE>
+  </ol>
+</B>
+
+
+<H2>Complete Bundle</H2>
+<ul>
+<li><A HREF="../code.tar.gz">Unix tar | gzip</A></li>
+<li><A HREF="../code.tar">Unix tar</A></li>
+<li><A HREF="../code.zip">Zip file</A></li>
+</ul>
+
+<h2>Individual Files</h2>
+
+<!--
+<p>Here is a listing of source code on a chapter-by-chapter
+basis.
+This is in a format suitable for printing out.
+Click on the chapter of interest:
+<A HREF="Ch1.out"> 1</A>
+<A HREF="Ch2.out"> 2</A>
+<A HREF="Ch3.out"> 3</A>
+<A HREF="Ch4.out"> 4</A>
+<A HREF="Ch5.out"> 5</A>
+<A HREF="Ch6.out"> 6</A>
+<A HREF="Ch7.out"> 7</A>
+<A HREF="Ch8.out"> 8</A>
+<A HREF="Ch10.out"> 10</A>
+<A HREF="Ch12.out"> 12</A>
+<A HREF="all.out"> all</A>
+</p>
+--->
+
+<p><A HREF="matrix.h"> <B>matrix.h</B>: Simple matrix class</a></p>
+<p><A HREF="dsexceptions.h"> <B>dsexceptions.h</B>: Simple exception classes</a></p>
+
+<p><A HREF="Fig01_02.cpp"> <B>Fig01_02.cpp</B>: A simple recursive routine with a test program</A></p>
+<p><A HREF="Fig01_03.cpp"> <B>Fig01_03.cpp</B>: An example of infinite recursion</A></p>
+<p><A HREF="Fig01_04.cpp"> <B>Fig01_04.cpp</B>: Recursive routine to print numbers, with a test program</A></p>
+<p><A HREF="Fig01_05.cpp"> <B>Fig01_05.cpp</B>: Simplest IntCell class, with a test program</A></p>
+<p><A HREF="Fig01_06.cpp"> <B>Fig01_06.cpp</B>: IntCell class with a few extras, with a test program</A></p>
+<p><A HREF="IntCell.h"> <B>IntCell.h</B>: IntCell class interface (Fig 1.7)</A></p>
+<p><A HREF="IntCell.cpp"> <B>IntCell.cpp</B>: IntCell class implementation (Fig 1.8)</A></p>
+<p><A HREF="TestIntCell.cpp"> <B>TestIntCell.cpp</B>: IntCell test program (Fig 1.9)</A> (need to compile IntCell.cpp also) </p>
+<p><A HREF="Fig01_10.cpp"> <B>Fig01_10.cpp</B>: Illustration of using the vector class</A></p>
+<p><A HREF="Fig01_11.cpp"> <B>Fig01_11.cpp</B>: Dynamically allocating an IntCell object (lame)</A></p>
+<p><A HREF="BuggyIntCell.cpp"> <B>BuggyIntCell.cpp</B>: Buggy IntCell class implementation (Figs 1.16 and 1.17)</A></p>
+<p><A HREF="Fig01_18.cpp"> <B>Fig01_18.cpp</B>: IntCell class with pointers and Big Five</A></p>
+<p><A HREF="FindMax.cpp"> <B>FindMax.cpp</B>: Function template FindMax (Figs 1.19 and 1.20)</A></p>
+<p><A HREF="Fig01_21.cpp"> <B>Fig01_21.cpp</B>: MemoryCell class template without separation</A></p>
+<p><A HREF="Fig01_25.cpp"> <B>Fig01_25.cpp</B>: Using function objects: Case insensitive string comparison</A></p>
+<p><A HREF="LambdaExample.cpp"> <B>LambdaExample.cpp</B>: (Not in the book): rewriting Fig 1.25 with lambdas</A></p>
+<p><A HREF="MaxSumTest.cpp"> <B>MaxSumTest.cpp</B>: Various maximum subsequence sum algorithms</A></p>
+<p><A HREF="Fig02_09.cpp"> <B>Fig02_09.cpp</B>: Test program for binary search</A></p>
+<p><A HREF="Fig02_10.cpp"> <B>Fig02_10.cpp</B>: Euclid's algorithm, with a test program</A></p>
+<p><A HREF="Fig02_11.cpp"> <B>Fig02_11.cpp</B>: Recursive exponentiation algorithm, with a test program</A></p>
+<p><A HREF="RemoveEveryOtherItem.cpp"> <B>RemoveEveryOtherItem.cpp</B>: Remove every other item in a collection</a></p>
+<p><A HREF="Vector.h"> <B>Vector.h</B>: Vector class</a></p>
+<p><A HREF="List.h"> <B>List.h</B>: List class</A></p>
+
+<p><A HREF="BinarySearchTree.h"> <B>BinarySearchTree.h</B>: Binary search tree</A></p>
+<p><A HREF="TestBinarySearchTree.cpp"> <B>TestBinarySearchTree.cpp</B>: Test program for binary search tree</A></p>
+<p><A HREF="AvlTree.h"> <B>AvlTree.h</B>: AVL tree</A></p>
+<p><A HREF="TestAvlTree.cpp"> <B>TestAvlTree.cpp</B>: Test program for AVL trees</A></p>
+<p><A HREF="mapDemo.cpp"> <B>mapDemo.cpp</B>: Map demos</A></p>
+<p><A HREF="WordLadder.cpp"> <B>WordLadder.cpp</B>: Word Ladder Program and Word Changing Utilities</A></p>
+<p><A HREF="SeparateChaining.h"> <B>SeparateChaining.h</B>: Header file for separate chaining</A></p>
+<p><A HREF="SeparateChaining.cpp"> <B>SeparateChaining.cpp</B>: Implementation for separate chaining</A></p>
+<p><A HREF="TestSeparateChaining.cpp"> <B>TestSeparateChaining.cpp</B>: Test program for separate chaining hash tables</A> (need to compile SeparateChaining.cpp also)
+<p><A HREF="QuadraticProbing.h"> <B>QuadraticProbing.h</B>: Header file for quadratic probing hash table</A></p>
+<p><A HREF="QuadraticProbing.cpp"> <B>QuadraticProbing.cpp</B>: Implementation for quadratic probing hash table</A></p>
+<p><A HREF="TestQuadraticProbing.cpp"> <B>TestQuadraticProbing.cpp</B>: Test program for quadratic probing hash tables</A> (need to compile QuadraticProbing.cpp also)
+<p><A HREF="CuckooHashTable.h"> <B>CuckooHashTable.h</B>: Header file for cuckoo hash table</A></p>
+<p><A HREF="CuckooHashTable.cpp"> <B>CuckooHashTable.cpp</B>: Implementation for cuckoo hash table</A></p>
+<p><A HREF="TestCuckooHashTable.cpp"> <B>TestCuckooHashTable.cpp</B>: Test program for cuckoo hash tables</A>  (need to compile CuckooHashTable.cpp also)
+<p><A HREF="CaseInsensitiveHashTable.cpp"> <B>CaseInsensitiveHashTable.cpp</B>: Case insensitive hash table from  STL (Figure 5.23)</A></p>
+<p><A HREF="BinaryHeap.h"> <B>BinaryHeap.h</B>: Binary heap</A></p>
+<p><A HREF="TestBinaryHeap.cpp"> <B>TestBinaryHeap.cpp</B>: Test program for binary heaps</A></p>
+<p><A HREF="LeftistHeap.h"> <B>LeftistHeap.h</B>: Leftist heap</A></p>
+<p><A HREF="TestLeftistHeap.cpp"> <B>TestLeftistHeap.cpp</B>: Test program for leftist heaps</A></p>
+<p><A HREF="BinomialQueue.h"> <B>BinomialQueue.h</B>: Binomial queue</A></p>
+<p><A HREF="TestBinomialQueue.cpp"> <B>TestBinomialQueue.cpp</B>: Test program for binomial queues</A></p>
+<p><A HREF="TestPQ.cpp"> <B>TestPQ.cpp</B>: Priority Queue Demo</A></p>
+<p><A HREF="Sort.h"> <B>Sort.h</B>: A collection of sorting and selection routines</A></p>
+<p><A HREF="TestSort.cpp"> <B>TestSort.cpp</B>: Test program for sorting and selection routines</A></p>
+<p><A HREF="RadixSort.cpp"> <B>RadixSort.cpp</B>: Radix sorts </A></p>
+<p><A HREF="DisjSets.h"> <B>DisjSets.h</B>: Header file for disjoint sets algorithms</A></p>
+<p><A HREF="DisjSets.cpp"> <B>DisjSets.cpp</B>: Efficient implementation of disjoint sets algorithm</A></p>
+<p><A HREF="TestFastDisjSets.cpp"> <B>TestFastDisjSets.cpp</B>: Test program for disjoint sets algorithm</A></p>
+<p><A HREF="WordLadder.cpp"> <B>WordLadder.cpp</B>: Word Ladder Program and Word Changing Utilities</A></p>
+<p><A HREF="Fig10_38.cpp"> <B>Fig10_38.cpp</B>: Simple matrix multiplication algorithm with a test program</A></p>
+<p><A HREF="Fig10_40.cpp"> <B>Fig10_40.cpp</B>: Algorithms to compute Fibonacci numbers</A></p>
+<p><A HREF="Fig10_43.cpp"> <B>Fig10_43.cpp</B>: Inefficient recursive algorithm (see text)</A></p>
+<p><A HREF="Fig10_45.cpp"> <B>Fig10_45.cpp</B>: Better algorithm to replace fig10_43.c (see text)</A></p>
+<p><A HREF="Fig10_46.cpp"> <B>Fig10_46.cpp</B>: Dynamic programming algorithm for optimal chain matrix multiplication, with a test program</A></p>
+<p><A HREF="Fig10_53.cpp"> <B>Fig10_53.cpp</B>: All-pairs algorithm, with a test program</A></p>
+<p><A HREF="Random.h"> <B>Random.h</B>: Header file for random number class</A></p>
+<p><A HREF="Random.cpp"> <B>Random.cpp</B>: Implementation for random number class</A></p>
+<p><A HREF="TestRandom.cpp"> <B>TestRandom.cpp</B>: Test program for random number class</A></p>
+<p><A HREF="UniformRandom.h"> <B>UniformRandom.h</B>: Random number class using standard library</A></p>
+<p><A HREF="Fig10_63.cpp"> <B>Fig10_63.cpp</B>: Randomized primality testing algorithm, with a test program</A></p>
+<p><A HREF="SplayTree.h"> <B>SplayTree.h</B>: Top-down splay tree</A></p>
+<p><A HREF="TestSplayTree.cpp"> <B>TestSplayTree.cpp</B>: Test program for splay trees</A></p>
+<p><A HREF="RedBlackTree.h"> <B>RedBlackTree.h</B>: Top-down red black tree</A></p>
+<p><A HREF="TestRedBlackTree.cpp"> <B>TestRedBlackTree.cpp</B>: Test program for red black trees</A></p>
+<p><A HREF="Treap.h"> <B>Treap.h</B>: Treap</A></p>
+<p><A HREF="TestTreap.cpp"> <B>TestTreap.cpp</B>: Test program for treap</A></p>
+<p><A HREF="SuffixArray.cpp"> <B>SuffixArray.cpp</B>: Suffix array</A></p>
+<p><A HREF="KdTree.cpp"> <B>KdTree.cpp</B>: Implementation and test program for k-d trees</A></p>
+<p><A HREF="PairingHeap.h"> <B>PairingHeap.h</B>: Pairing heap</A></p>
+<p><A HREF="TestPairingHeap.cpp"> <B>TestPairingHeap.cpp</B>: Test program for pairing heaps</A></p>
+<p><A HREF="MemoryCell.h"> <B>MemoryCell.h</B>: MemoryCell class interface (Appendix)</A></p>
+<p><A HREF="MemoryCell.cpp"> <B>MemoryCell.cpp</B>: MemoryCell class implementation (Appendix)</A></p>
+<p><A HREF="MemoryCellExpand.cpp"> <B>MemoryCellExpand.cpp</B>: MemoryCell instantiation file (Appendix)</A></p>
+<p><A HREF="TestMemoryCell.cpp"> <B>TestMemoryCell.cpp</B>: MemoryCell test program (Appendix)</A></p>
+</BODY>
