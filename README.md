@@ -14,6 +14,8 @@
 
 ## Algorithms and Data Structs
 
+ - Most Recommended Book
+    - [Algoritmos Teoria e Prática - Thomas H. Cormen](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996)
  - YouTube
     - [Linguagem C Programação Descomplicada](https://www.youtube.com/user/progdescomplicada/videos) :skull:
  - Sites
@@ -104,7 +106,7 @@
        - [Lutris.net :video_game:](https://lutris.net/)
        - [$ sudo apt install zsnes :video_game:](http://www.zsnes.com/)
        - [$ sudo apt install playonlinux :video_game:](https://www.playonlinux.com/en/)
-    - OS
+    - Operation System
        - [Lubuntu - OS I Use and Recommend. Simple, Light and Usefull](https://lubuntu.net/)
  - FreeBSD
     - Sites
@@ -138,6 +140,17 @@
  - [DAT Protocol](https://www.datprotocol.com/)
     - [DatProject.org](https://datproject.org)
     - [Try Dat](https://try-dat.com/)
+ - Database
+    - World's fastest password cracker
+       - [HashCat](https://hashcat.net/hashcat/)
+    - Recommended Data Encryption
+       - [Argon2](https://github.com/P-H-C/phc-winner-argon2)
+       - [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2)
+       - [Scrypt](https://en.wikipedia.org/wiki/Scrypt)
+       - [BCrypt](https://en.wikipedia.org/wiki/Bcrypt)
+    - NOT RECOMMENDED
+       - [MD5](https://pt.wikipedia.org/wiki/MD5)
+       - [SHA1~2~256](https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/)
  - Tools
     - Virtual Machines for Pentest
        - [PentesterLab](https://www.pentesterlab.com/exercises/)
@@ -181,7 +194,7 @@
 ## Online Courses
 
 - [Udemy - Courses I'm enrolled](https://www.udemy.com/user/alex-galhardo-vieira/)
-- [Coursera - Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
+- [Coursera - Learning How to Learn: Powerful Mental Tools to Help You Master Tough Subjects](https://www.coursera.org/learn/learning-how-to-learn)
 
 ## Blogs
 
@@ -217,9 +230,11 @@
 
 ## Nice Articles
 
- - [The Invented History of 'The Factory Model of Education'](http://hackeducation.com/2015/04/25/factory-model) :smile:
- - [The Humble Programmer by Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html) :smile:
+ - [The Invented History of 'The Factory Model of Education'](http://hackeducation.com/2015/04/25/factory-model)
+ - [The Humble Programmer by Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
  - [Why Good Programmers Are Lazy and Dumb](http://blogoscoped.com/archive/2005-08-24-n14.html)
+ - [The Feynman Technique: The Best Way to Learn Anything - Easy to Understand | Hard To Master](https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/)
+ - [WaitButWhy - The Cook and the Chef: Musk’s Secret Sauce - Easy to Understand | Hard to Master](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
  - [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
  - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
  - [What makes a good programmer?](http://www.techfounder.net/2009/07/22/what-makes-a-good-programmer/?subscribe=error#509)
@@ -325,6 +340,7 @@
     - [CanalTech](https://www.youtube.com/user/canaltechbr)
     - [William Oliveira](https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw)
     - [UNIVESPTV](https://www.youtube.com/user/univesptv/playlists)
+    - [Engenharia Reversa](https://www.youtube.com/channel/UCagV1LuB6C52fFtZwVywZYg)
     - [DevNaEstrada](https://www.youtube.com/channel/UCtIygB7LtILSFWR0kxtZC-A/videos)
     - [RocketSeat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/videos)
     - [Bóson Treinamentos](https://www.youtube.com/user/bosontreinamentos)
