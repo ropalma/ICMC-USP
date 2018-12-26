@@ -101,6 +101,7 @@
     - Tools
        - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
        - [Etcher - Flash OS images to SD cards & USB drives](https://etcher.io/)
+       - [Rufus.ie for Windows](https://rufus.ie)
        - [WineHQ](https://www.winehq.org/)
        - [Vim Para Noobs](https://woliveiras.com.br/vimparanoobs/)
        - [Lutris.net :video_game:](https://lutris.net/)
@@ -126,6 +127,7 @@
  - Sites
     - [OWASP](https://www.owasp.org/index.php/Main_Page)
     - [EUGDPR.org](https://eugdpr.org/)
+    - [LGPD - Lei Geral de Proteção de Dados Pessoais](http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm)
     - [Livro - Fundamentos de Engenharia Reversa - Mente Binária](https://mentebinaria.gitbook.io/engenharia-reversa/antes-de-comecar)
     - [Forum CaveiraTech](https://caveiratech.com/forum/)
  - YouTube
@@ -216,6 +218,7 @@
 - [Umbler Blog](https://blog.umbler.com)
 - [InfoQ](https://www.infoq.com/)
 - [WBruno](http://wbruno.com.br/)
+- [Nateliason](https://www.nateliason.com)
 - [RamonSilva](http://ramonsilva.net/)
 - [O Futuro Das Coisas](https://ofuturodascoisas.com/)
 - [Filipe Deschamps](https://www.filipedeschamps.com.br/)
@@ -232,12 +235,18 @@
 
  - [The Invented History of 'The Factory Model of Education'](http://hackeducation.com/2015/04/25/factory-model)
  - [The Humble Programmer by Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
+ - [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html)
+ - [Getting Real - the smarter, faster, easy way to build a sucesfull web application - BaseCamp](https://basecamp.com/books/getting-real)
+ - [Principles for Success - Ray Dalio](https://www.principles.com/principles-for-success/)
+ - [The Twelve Factor App](https://12factor.net/)
+ - [Write Code Every Day - John Resig](https://johnresig.com/blog/write-code-every-day/)
  - [Why Good Programmers Are Lazy and Dumb](http://blogoscoped.com/archive/2005-08-24-n14.html)
  - [The Feynman Technique: The Best Way to Learn Anything - Easy to Understand | Hard To Master](https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/)
  - [WaitButWhy - The Cook and the Chef: Musk’s Secret Sauce - Easy to Understand | Hard to Master](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
  - [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
  - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
  - [What makes a good programmer?](http://www.techfounder.net/2009/07/22/what-makes-a-good-programmer/?subscribe=error#509)
+ - [Self-Education: Teach Yourself Anything with the Sandbox Method](https://www.nateliason.com/blog/self-education)
 
 ## Communities
 
@@ -323,6 +332,7 @@
        - [Tim Ferris Podcast](https://tim.blog/podcast/)
        - [Masters Of Scale](https://mastersofscale.com/)
        - [Rework.FM](https://rework.fm/)
+       - [MadeYouThinkPodcast](https://madeyouthinkpodcast.com/)
 
 ## YouTube #StopWatchingTV
 

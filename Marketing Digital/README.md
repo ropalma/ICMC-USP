@@ -276,6 +276,8 @@
     - [Becommerce](https://www.becommerce.com.br/)
     - [Tray](https://www.tray.com.br/)
     - [LojaIntegrada](https://lojaintegrada.com.br/)
+    - [YourViews](https://www.yourviews.com.br/)
+    - [TrustVox](https://site.trustvox.com.br/)
  - The Most Advanced WYSIWYG HTML Editor
     - [Tiny.cloud](https://www.tiny.cloud/)
     - [CKEditor](https://ckeditor.com/)
@@ -318,10 +320,14 @@
     - [CrazyEgg](https://www.crazyegg.com/)
  - URL Shortener
     - [Bitly](https://bitly.com/)
- - Ads
+ - Afiliates
     - [Hotmart](https://www.hotmart.com/en/)
+    - [Lomadee](https://www.lomadee.com/)  
+ - Ads
     - [Google Adsense](https://www.google.com/adsense/start/)
+    - [BuySellAds](https://www.buysellads.com/)
     - [Google Ads Academy](https://landing.google.com/academyforads/)
+    - [Outbrain](https://www.outbrain.com/)
  - Share Buttons
     - [ShareThis](https://www.sharethis.com/)
     - [AddThis](https://www.addthis.com)
