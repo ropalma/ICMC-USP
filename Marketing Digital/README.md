@@ -353,6 +353,14 @@
     - [Google Tag Manager](https://marketingplatform.google.com/about/tag-manager/)
  - Domain Rating
     - [Ahrefs](https://ahrefs.com/)
+ - Programa de Afiliados
+    - [Amazon](https://associados.amazon.com.br/)
+    - [Awin](https://www.awin.com/br/afiliados)
+    - [Afilio](http://afilio.com.br/)
+    - [Ebay](https://partnernetwork.ebay.com/)
+    - [Walmart](https://affiliates.walmart.com/linksharesignupnew)
+    - [Submarino](https://www.submarino.com.br/)
+    - [UOL](https://afiliados.uol.com.br/)
  - SEO
     - [Google Search Console](https://www.google.com/webmasters/tools/home)
     - [Search Features](https://developers.google.com/search/docs/guides/search-features)
