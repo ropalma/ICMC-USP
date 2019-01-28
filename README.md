@@ -385,6 +385,7 @@
     - [Canal do Pirula](https://www.youtube.com/user/Pirulla25)
     - [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
     - [Vsauce](https://www.youtube.com/user/Vsauce)
+    - [Ponto em Comum](https://www.youtube.com/channel/UCGo3vjM2Ll3XujL-zYT5SMg)
     - [Alimente o Cérebro](https://www.youtube.com/channel/UC3fBS89aQ7mt5G1TodU4HNg)
     - [Singularidade](https://www.youtube.com/channel/UCA6-1g_4e3iuT1qeXe6xNuA/videos)
     - [Minutos Psíquicos](https://www.youtube.com/channel/UCFiEI1kDHlO9UQtxx0wj-XA)
