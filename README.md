@@ -21,6 +21,7 @@
  - Sites
     - [GeeksForGeeks](https://www.geeksforgeeks.org/)
     - [AssemblyProgressivo.net](https://www.assemblyprogressivo.net/)
+    - [MIT Scratch](https://scratch.mit.edu/projects/editor/)
 - Code Training
     - [Project Euler](https://projecteuler.net/)
     - [HackerRank](https://www.hackerrank.com/)
@@ -206,6 +207,7 @@
 - [Reddit - A LOT](https://www.reddit.com)
 - [Hacker News](https://news.ycombinator.com/)
 - [Stalt](https://staltz.com/)
+- [JornadaPeloConhecimento](https://medium.com/petrobras)
 - [Joel Spolsky OnSoftware](https://www.joelonsoftware.com/)
 - [WaitButWhy](https://waitbutwhy.com/)
 - [ThinkWithGoogle](https://www.thinkwithgoogle.com/)
@@ -399,6 +401,7 @@
     - [Canal do Moscoso](https://www.youtube.com/channel/UChVeSyoB200ALDpnTr1TOrg/videos)
     - [Canal Nostalgia](https://www.youtube.com/user/fecastanhari)
     - [MuriloGun](https://www.youtube.com/user/murilogun/videos)
+    - [Arata Academy](https://www.youtube.com/channel/UCEdgNBcBybRtwv836C8El4g)
     - [Meteoro Brasil](https://www.youtube.com/channel/UCk5BcU1rOy6hepflk7_q_Pw)
     - [Canal do Cortella](https://www.youtube.com/channel/UCyTS929PXJSUiBEFSzdypgg)
     - [Luiz Felipe Pondé](https://www.youtube.com/channel/UCW9jLtlONRp7W-AK9F8M66Q)
