@@ -82,8 +82,34 @@
     M = 5,000 . (1,05)^12
     ```
  - Siglas
+    - Empréstimo
+       - ato de emprestar, aquilo que se empresta.
+    - Financiamento
+       - Financiamento é uma dívida feita entre o consumidor e o banco ou financeira. Estas empresas cedem o dinheiro apenas para o cliente que vai comprar um bem. Diferente do empréstimo, as taxas são mais baratas porque o valor do financiamento é uma ajuda para comprar um determinado item.
+       - O financiamento é mais usado na compra de carros, motos e imóveis porque possuem valores considerados maiores pelo mercado. A cobrança da dívida pode ser feita por boleto bancário, débito automático ou cartão de crédito.
+       - As taxas de juros podem chegar a 4,5 % ao mês dependendo do banco ou financiadora que o cliente escolher. Nesses casos é fundamental pesquisar em qual agência vale mais a pena fechar negócio.
+       - O bem financiado é a garantia que a dívida será paga. Vale lembrar que, se não houver pagamento do valor estabelecido com a financiadora do objeto, ele pode ser tomado como forma de pagamento.
+          - Leasing == "locação"
+             - O leasing não permite que o carro fique no nome do comprador antes do financiamento ser quitado. O veículo é de responsabilidade da agência financiadora até o pagamento final das parcelas.
+          - CDC == Crédito Direto ao Consumidor
+             - Já o CDC gera o contrato de pagamento e o veículo pode ficar em seu nome. Outra diferença entre as duas modalidades está nas taxas de juros. Os juros do leasing são menores em relação aos do crédito direto. 
     - D+0, D+1, D+2...
        - Significa rentabilidade da aplicação, ou seja, D+0 significa que é possível resgatar o dinheiro no mesmo dia, D+1 significa que só é possível resgatar o dinheiro no próximo dia útil e assim sucessivamente.
+    - Cheque Especial
+        - É preciso entender que o cheque especial nada mais é do que um tipo de crédito que o banco lhe oferece. É como se fosse um empréstimo pré-aprovado que o banco deixa ali disponível pra você usar a qualquer momento. E é bem aí que mora o perigo! Ainda mais que o valor do cheque especial de cada um muda conforme a avaliação que cada banco faz do cliente
+        - O cheque especial é caro porque o banco cede esse crédito sem pedir nenhuma garantia. Ao contrário do que acontece com o empréstimo pessoal. Nesse caso, você precisa ir até o banco, negociar as condições e assinar um contrato para conseguir o dinheiro emprestado.
+        - Com o cheque especial, o limite fica ali disponível para que você use sempre que precisar.
+    - Consórcio
+        - O consórcio de motos funciona da seguinte maneira: os participantes do grupo (chamados de consorciados ou de cotistas) contribuem mensalmente pagando uma parcela destinada à formação de uma poupança comum para a compra de um bem, sendo neste caso, uma moto. Dessa forma, o consórcio funciona como um autofinanciamento.
+        - Todo mês, uma ou mais pessoas são sorteadas e têm o direito de retirar do valor total arrecado pelo grupo o crédito adiantado para a compra de sua moto, à vista.
+        - Todos os participantes do grupo recebem o valor para a aquisição do bem, de acordo com as regras previstas no contrato, até o final do prazo do consórcio.
+        - Quem gerencia os pagamentos e as contemplações são as administradoras. Quem fiscaliza e normatiza o sistema de consórcios e as administradoras é o Banco Central do Brasil.
+        - Formas de participação no grupo de consórcio
+           - Existem duas formas de aderir a um consórcio, entrando em um grupo em formação, ou contratando uma cota de um grupo já formado:
+           - 1) Grupos em formação são aqueles que ainda não estão fechados e ativos. As administradoras ainda estão reunindo pessoas para participar e a contemplação de seus integrantes começa a ocorrer depois de um prazo pré-determinado.
+           - 2) Grupo já formado é aquele que já está operando. Nesse, é possível adquirir dois tipos de cotas:
+              - a) Cota vaga: é uma cota ainda não comprada, disponível junto à administradora. 
+              - b) Cota de transferência: nesse caso a compra da cota é feita diretamente do atual consorciado. Assim, o comprador assume integralmente os direitos e as obrigações do contrato
     - FISCO
        - se refere à autoridade fazendária do país. Ela tem a função de controlar e fiscalizar o cumprimento da legislação tributária em suas mais variadas esferas. Diferente do que muitos possam imaginar, esse termo não se trata apenas do órgão federal responsável pelo recolhimento de impostos. É preciso observar ainda os pagamentos que devem ser feitos nas esferas estadual e municipal.
     - CDI == É a sigla de Certificados de Depósito Interbancário
@@ -172,6 +198,11 @@
     - CRA == Certificado de Recebíveis do Agronegócio
        - por sua vez, é bastante parecido com o CRI. A maior diferença é que ele está ligado ao setor de agronegócio. Por isso, pode-se dizer que ele tem algumas semelhanças com a LCA (Letra de Crédito do Agronegócio).
        - ***Embora o CRI e CRA tenham semelhanças com a LCI e LCA, é importante ressaltar que eles são investimentos que funcionam de formas diferentes.***
+    - Poupança
+       - Quando a taxa básica de juros (Selic) está baixa, até 8,5% ao ano, a poupança paga 70% da Selic mais Taxa Referencial (TR). Para um patamar de juro mais alto, acima de 8,5% ao ano, a remuneração é de 0,5% ao mês mais TR.
+       - O rendimento da poupança não é fixo
+       - O rendimento da poupança pode ser inferior à inflação
+       - Sua aplicação não rende NADA antes de completar um mês
  - Não custa lembrar que esse Imposto de Renda deve ser aplicado apenas sobre o rendimento (ou seja, sobre a valorização), e não sobre o valor total do investimento.
     - Confira a tabela:
     - TEMPO DE INVESTIMENTO ALÍQUOTA DO IMPOSTO DE RENDA
