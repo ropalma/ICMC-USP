@@ -95,6 +95,9 @@
              - Já o CDC gera o contrato de pagamento e o veículo pode ficar em seu nome. Outra diferença entre as duas modalidades está nas taxas de juros. Os juros do leasing são menores em relação aos do crédito direto. 
     - D+0, D+1, D+2...
        - Significa rentabilidade da aplicação, ou seja, D+0 significa que é possível resgatar o dinheiro no mesmo dia, D+1 significa que só é possível resgatar o dinheiro no próximo dia útil e assim sucessivamente.
+    - Crédito Consignado
+       - O crédito consignado é a modalidade de crédito pessoal em que o valor das parcelas é descontado automaticamente, direto no contracheque ou benefício INSS.
+       - É tido como uma das melhores opções pra quem precisa de dinheiro no curto prazo. Com menores taxas de juros, o crédito consignado pode ser utilizado para diversas finalidades.
     - Cheque Especial
         - É preciso entender que o cheque especial nada mais é do que um tipo de crédito que o banco lhe oferece. É como se fosse um empréstimo pré-aprovado que o banco deixa ali disponível pra você usar a qualquer momento. E é bem aí que mora o perigo! Ainda mais que o valor do cheque especial de cada um muda conforme a avaliação que cada banco faz do cliente
         - O cheque especial é caro porque o banco cede esse crédito sem pedir nenhuma garantia. Ao contrário do que acontece com o empréstimo pessoal. Nesse caso, você precisa ir até o banco, negociar as condições e assinar um contrato para conseguir o dinheiro emprestado.
