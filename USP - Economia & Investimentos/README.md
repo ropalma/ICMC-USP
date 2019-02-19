@@ -8,6 +8,7 @@
     - [FGC](https://www.fgc.org.br/)
     - [CVM](http://www.cvm.gov.br/)
     - [Portal do Empreendedor](http://www.portaldoempreendedor.gov.br/)
+    - [Population Explorer](https://www.populationexplorer.com/)
  - Blogs
     - [Blog Magnetis](blog.magnetis.com.br)
     - [Blog Toro Investimentos](https://blog.toroinvestimentos.com.br)
@@ -113,6 +114,20 @@
            - 2) Grupo já formado é aquele que já está operando. Nesse, é possível adquirir dois tipos de cotas:
               - a) Cota vaga: é uma cota ainda não comprada, disponível junto à administradora. 
               - b) Cota de transferência: nesse caso a compra da cota é feita diretamente do atual consorciado. Assim, o comprador assume integralmente os direitos e as obrigações do contrato
+    - IGP-M
+       - O IGPM é um índice composto pelo IPA, IPC e INCC, cada um com a sua ponderação. Sua utilização mais frequente é no reajuste anual de aluguéis, imóveis, energia elétrica, entre outros contratos. O IGP-M especificamente é calculado no período entre o dia 21 de um mês ao dia 20 do outro.
+       - Ele é amplamente usado como referência no reajuste de alguns contratos, como por exemplo os de aluguéis. Além disso, ele é utilizado ainda como parâmetro para o reajuste do preço de imóveis, da energia elétrica, de escolas e universidades, alguns planos de saúde, entre outros contratos.
+       - É importante notar que o IGP-M, assim como as outras versões do IGP, é um indicador independente. Isso significa que ele não tem ligação alguma com o governo na sua aferição. Ele não é a inflação oficial do país, mas também é importante por ser calculado por uma instituição independente do governo.
+    - IGP
+       - Devido às suas características, o IGP funciona também como um indicador mensal do nível de atividade econômica no Brasil. Ele é calculado através da aferição de 3 índices específicos de inflação, aos quais são determinados os seguintes pesos:
+          - 60% para o IPA (Índice de Preços ao Produtor Amplo);
+          - 30% para o IPC (Índice de Preços ao Consumidor);
+          - 10% para o INCC (Índice de Nacional de Custos da Construção).
+       - O IGP é dividido ainda em 3 versões, cuja metodologia de cálculo é idêntica, tendo como diferença apenas o período de aferição do índice. São eles:
+          - O IGP-DI, que é calculado do dia 1 ao dia 30 de cada mês;
+          - O IGP-10, que é calculado do dia 11 de um mês ao dia 10 do outro;
+          - O IGP-M, que é calculado do dia 21 de um mês ao dia 20 do outro.
+        - RESUMO: O IGP é um índice de inflação independente, calculado pelo IBRE-FGV. Além de indicar a variação de preços mensal, ele é usado também como um indicador mensal do nível de atividade econômica do Brasil.
     - FISCO
        - se refere à autoridade fazendária do país. Ela tem a função de controlar e fiscalizar o cumprimento da legislação tributária em suas mais variadas esferas. Diferente do que muitos possam imaginar, esse termo não se trata apenas do órgão federal responsável pelo recolhimento de impostos. É preciso observar ainda os pagamentos que devem ser feitos nas esferas estadual e municipal.
     - CDI == É a sigla de Certificados de Depósito Interbancário
@@ -130,6 +145,8 @@
        - OU Oferta Pública Inicial em português. Uma oferta pública inicial de ações é o momento em que a empresa abre seu capital e passa a ser listada na Bolsa de Valores.
     - Pro Labore == "pelo trabalho"
        -  significa, em latim, "pelo trabalho" e corresponde à remuneração deste administrador por seu trabalho na empresa. Refere-se à remuneração de sócios por atividades administrativas, sendo opcional e diferente da distribuição de lucros ou dividendos
+    - Dividend Yield (DY) 
+       - É um indicador financeiro que demonstra o quanto uma empresa paga em dividendos a cada ano em relação ao preço atual de cotação de sua ação negociada no mercado.
     - Dividendos 
        - são uma parcela do lucro apurado por uma sociedade anônima, distribuída aos acionistas por ocasião do encerramento do exercício social.
     - Aliquota 
@@ -158,6 +175,18 @@
        - Letras de Crédito do Agronegócio, também se trata de um título de crédito muito semelhante à LCI, mas este, como o próprio nome já diz, é destinado ao agronegócio.
     - Câmbio 
        - é a operação de troca de moeda de um país pela moeda de outro país. Por exemplo, quando um turista brasileiro vai viajar para o exterior e prec isa de moeda estrangeira, o agente autorizado pelo Banco Central a operar no mercado de câmbio recebe do turista brasileiro a moeda nacional e lhe entrega (vende) a moeda estrangeira. Já quando um turista estrangeiro quer converter moeda estrangeira em reais, o agente autorizado a operar no mercado de câmbio compra a moeda estrangeira do turista estrangeiro, entregando-lhe os reais correspondentes.
+    - Ebitda
+       - Ebitda é a sigla em inglês para Earnings before interest, taxes, depreciation and amortization. Em português, “Lucros antes de juros, impostos, depreciação e amortização” (também conhecida como Lajida). É um indicador muito utilizado para avaliar empresas de capital aberto.
+       - Se você ler uma entrevista de um analista de mercado, é provável que verá a repetição desse termo em diversas respostas. E não é por acaso.
+       - Com ele, é possível descobrir quanto a empresa está gerando com suas atividades operacionais, não incluindo investimentos financeiros, empréstimos e impostos.
+       - O Ebitda representa a geração operacional de caixa da companhia, ou seja, o quanto a empresa gera de recursos apenas em suas atividades operacionais, sem levar em consideração os efeitos financeiros e de impostos.
+       - Dessa forma, a divulgação do Ebitda é uma forma de o investidor descobrir qual é a realidade financeira da companhia e se ela está melhorando sua competitividade e a sua eficiência ano a ano.
+       - “O Ebitda mostra o potencial de geração de caixa de um negócio, pois indica quanto dinheiro é gerado pelos ativos operacionais.”
+       - o Ebitda ajuda a analisar a geração de caixa de uma empresa, medindo com maior precisão a produtividade e a eficiência do negócio.
+    - Juros Sobre Capital Próprio 
+       - **
+    - Demonstração do Resultado do Exercício (DRE) é um relatório contábil elaborado em conjunto com o balanço patrimonial.
+       - **
     - Derivativo 
        - é um contrato no qual se estabelecem pagamentos futuros, cujo montante é calculado com base no valor assumido por uma variável, tal como o preço de um outro ativo (ação ou commodity), a inflação acumulada no período, a taxa de câmbio, a taxa básica de juros ou qualquer outra variável dotada de significado econômico. Derivativos recebem esta denominação porque seu preço de compra e venda deriva do preço de outro ativo, denominado ativo-objecto.
     -  Antifrágil
