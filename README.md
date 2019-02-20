@@ -120,6 +120,7 @@
 
  - Sites
     - [Baboo](https://www.baboo.com.br/)
+    - [Baboo Cursos](https://www.baboocursos.com.br/)
  - Tools
     - [Cmder](http://cmder.net/)
 
@@ -403,6 +404,8 @@
     - [Moporã](https://www.youtube.com/channel/UCZYCNT6OT4_cgt-ldtwGQJw)
     - [Jordan Peterson](https://www.youtube.com/user/JordanPetersonVideos)
     - [Arata Academy](https://www.youtube.com/channel/UCEdgNBcBybRtwv836C8El4g)
+    - [Jacob Petry](https://www.youtube.com/channel/UCv79O7v-AHomNC7MB7cx6BA)
+    - [Augusto Ollivieri](https://www.youtube.com/channel/UCfkmlovZdEmMzTsGwatkoIw)
     - [Seja Uma Pessoa Melhor](https://www.youtube.com/channel/UCbG7_Agdb99rhG9-rhY8iTg/videos)
  - Philosophy
     - [Canal do Cortella](https://www.youtube.com/channel/UCyTS929PXJSUiBEFSzdypgg)
