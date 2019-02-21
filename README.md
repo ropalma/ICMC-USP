@@ -35,6 +35,15 @@
 - Data Structs Visualization
    - [VisualGo](https://visualgo.net/en)
    - [University of San Francisco - CS](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- Learn Having Fun :smile: :heart:
+   - [RaspberryPi](https://www.raspberrypi.org/homepage-9df4b/)
+   - [Arduino](https://www.arduino.cc/)
+   - [Pico8](https://www.lexaloffle.com/pico-8.php)
+      - [NerdyTeachers](https://nerdyteachers.com/)
+      - [NerdTeachers YouTube](https://www.youtube.com/channel/UCbMjF_cWciuBUZjILNL1fyA)
+   - [CodeCombat](https://codecombat.com/) 
+   - [Code.org](https://code.org/)
+   - [CodeMonkey](https://www.playcodemonkey.com/)
 - Big O
    - [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
    - [A coffee-break introduction to time complexity of algorithms](https://dev.to/vickylai/a-coffee-break-introduction-to-time-complexity-of-algorithms-160m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
@@ -406,6 +415,7 @@
     - [Arata Academy](https://www.youtube.com/channel/UCEdgNBcBybRtwv836C8El4g)
     - [Jacob Petry](https://www.youtube.com/channel/UCv79O7v-AHomNC7MB7cx6BA)
     - [Augusto Ollivieri](https://www.youtube.com/channel/UCfkmlovZdEmMzTsGwatkoIw)
+    - [IlustradaMente](https://www.youtube.com/channel/UCNmO5NWNLQkOr76WmHEq-DQ)
     - [Seja Uma Pessoa Melhor](https://www.youtube.com/channel/UCbG7_Agdb99rhG9-rhY8iTg/videos)
  - Philosophy
     - [Canal do Cortella](https://www.youtube.com/channel/UCyTS929PXJSUiBEFSzdypgg)

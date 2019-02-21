@@ -219,6 +219,12 @@
     - IOF == Imposto sobre Operações Financeiras
        - Quais operações financeiras? Entre as mais comuns estão crédito, câmbio e seguros. Além dessas, o IOF também está presente em qualquer operação titular e de valores imobiliários, como bolsa de valores ou fundo imobiliário. Ele é um imposto federal e tem com intuito ser um regulador da economia nacional. 
        - A taxa cobrada em cada operação é vista como um recolhimento proporcional dos investimentos, dando conhecimento da demanda e oferta de crédito. O percentual pode mudar a qualquer momento sem passar pelo Congresso Nacional, o que facilita o governo a controlar essas transações.
+    - Valor Intrínseco e Valor Extrínseco
+       - Valor intrínseco é o valor imediato de uma opção em relação ao preço do ativo-objeto, independente de outros fatores como juros e tempo restante para o vencimento do contrato. O valor intrínseco está relacionado apenas a vantagem imediata que este contrato proporciona ao investidor titular da opção.
+       - O valor extrínseco é calculado subtraindo o preço atual da opção pelo valor intrínseco da mesma.
+       - Exemplo: Uma opção está sendo negociada no mercado a R$ 1,50 e o seu Valor Intrínseco está R$ 1,20. Sabemos então que, se subtrairmos o valor imediato de ganho (intrínseco) com o valor que o mercado está pagando pela opção, teremos o valor de risco (extrínseco), que neste caso é de R$ 0,30.
+    - Mercado de Opções
+       - 
     - CET == Custo Efetivo Total
        - Ele contém todos os encargos, tributos, taxas e despesas de um empréstimo ou financiamento. Ou seja, os juros são apenas uma parte que compõe o valor da contratação de um serviço.
        - O CET corresponde então ao valor total da negociação.
