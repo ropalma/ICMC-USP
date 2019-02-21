@@ -1,5 +1,3 @@
-# Sharing my references of study
-
 ## English
 
 - [Mairo Vergara](http://www.mairovergara.com/)
@@ -35,7 +33,7 @@
 - Data Structs Visualization
    - [VisualGo](https://visualgo.net/en)
    - [University of San Francisco - CS](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- Learn Having Fun :smile: :heart:
+- Learn Having Fun :smile: :heart: :baby:
    - [RaspberryPi](https://www.raspberrypi.org/homepage-9df4b/)
    - [Arduino](https://www.arduino.cc/)
    - [Pico8](https://www.lexaloffle.com/pico-8.php)
