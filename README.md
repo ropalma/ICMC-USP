@@ -42,6 +42,9 @@
    - [CodeCombat](https://codecombat.com/) 
    - [Code.org](https://code.org/)
    - [CodeMonkey](https://www.playcodemonkey.com/)
+   - [MonkeyUser](https://www.monkeyuser.com/)
+   - [VidaDeProgramador](https://vidadeprogramador.com.br/)
+   - [VidaDeHipster](https://www.vidadehipster.com.br/)
 - Big O
    - [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
    - [A coffee-break introduction to time complexity of algorithms](https://dev.to/vickylai/a-coffee-break-introduction-to-time-complexity-of-algorithms-160m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
@@ -421,6 +424,7 @@
     - [Prazer, Karnal](https://www.youtube.com/channel/UC4O2eKb8vI4VlMeNp90asfg)
     - [Saber Filosófico](https://www.youtube.com/channel/UCWdXgfpEIZIGzah9_yCL-Xw)
  - Others
+    - [PhilosTV](https://philos.tv/)
     - [Canal do Moscoso](https://www.youtube.com/channel/UChVeSyoB200ALDpnTr1TOrg/videos)
     - [Canal Nostalgia](https://www.youtube.com/user/fecastanhari)
     - [MuriloGun](https://www.youtube.com/user/murilogun/videos)
