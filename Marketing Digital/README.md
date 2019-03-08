@@ -278,6 +278,7 @@
     - [LojaIntegrada](https://lojaintegrada.com.br/)
     - [YourViews](https://www.yourviews.com.br/)
     - [TrustVox](https://site.trustvox.com.br/)
+    - [Ebit](https://www.ebit.com.br/)
  - The Most Advanced WYSIWYG HTML Editor
     - [Tiny.cloud](https://www.tiny.cloud/)
     - [CKEditor](https://ckeditor.com/)

@@ -19,7 +19,6 @@
  - Sites
     - [GeeksForGeeks](https://www.geeksforgeeks.org/)
     - [AssemblyProgressivo.net](https://www.assemblyprogressivo.net/)
-    - [MIT Scratch](https://scratch.mit.edu/projects/editor/)
 - Code Training
     - [Project Euler](https://projecteuler.net/)
     - [HackerRank](https://www.hackerrank.com/)
@@ -36,6 +35,7 @@
 - Learn Having Fun :smile: :heart: :baby:
    - [RaspberryPi](https://www.raspberrypi.org/homepage-9df4b/)
    - [Arduino](https://www.arduino.cc/)
+   - [MIT Scratch](https://scratch.mit.edu/projects/editor/)
    - [Pico8](https://www.lexaloffle.com/pico-8.php)
       - [NerdyTeachers](https://nerdyteachers.com/)
       - [NerdTeachers YouTube](https://www.youtube.com/channel/UCbMjF_cWciuBUZjILNL1fyA)
@@ -379,6 +379,7 @@
     - [A história da Tecnologia - TecMundo](https://www.youtube.com/playlist?list=PL7cCKVGMzqmbyaouQulXxUJLdwW4qBMpp)
     - [Mayuko](https://www.youtube.com/user/hellomayuko/videos)
     - [Computer Science - CrashCourse](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+    - [Tecnologias do Futuro - The Enemy](https://www.youtube.com/watch?v=TLeTxzWbak8&list=PLTFO-hPawXIEYU16QavOFJvCFuruFq1Ps)
  - Talks
     - [Alura Cursos Online](https://www.youtube.com/user/aluracursosonline/videos)
     - [Tedx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
@@ -424,6 +425,7 @@
     - [Canal do Cortella](https://www.youtube.com/channel/UCyTS929PXJSUiBEFSzdypgg)
     - [Luiz Felipe Pondé](https://www.youtube.com/channel/UCW9jLtlONRp7W-AK9F8M66Q)
     - [Prazer, Karnal](https://www.youtube.com/channel/UC4O2eKb8vI4VlMeNp90asfg)
+    - [Casa do Saber](https://www.youtube.com/channel/UCtvvTFp0XANyllOdmzZr9VQ)
     - [Saber Filosófico](https://www.youtube.com/channel/UCWdXgfpEIZIGzah9_yCL-Xw)
  - Others
     - [PhilosTV](https://philos.tv/)
