@@ -32,9 +32,10 @@
 - Data Structs Visualization
    - [VisualGo](https://visualgo.net/en)
    - [University of San Francisco - CS](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- Learn Having Fun :smile: :heart: :baby:
+- Work Hard, Have Fun & Make Things :smile: :heart: :baby:
    - [RaspberryPi](https://www.raspberrypi.org/homepage-9df4b/)
    - [Arduino](https://www.arduino.cc/)
+      - [Brasilino - Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR.](https://otacilion.github.io/Brasilino/)
    - [MIT Scratch](https://scratch.mit.edu/projects/editor/)
    - [Pico8](https://www.lexaloffle.com/pico-8.php)
       - [NerdyTeachers](https://nerdyteachers.com/)
@@ -45,6 +46,8 @@
    - [MonkeyUser](https://www.monkeyuser.com/)
    - [VidaDeProgramador](https://vidadeprogramador.com.br/)
    - [VidaDeHipster](https://www.vidadehipster.com.br/)
+   - <strong>Onde Comprar?</strong>
+      - [FilipeFlop](https://www.filipeflop.com) 
 - Big O
    - [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
    - [A coffee-break introduction to time complexity of algorithms](https://dev.to/vickylai/a-coffee-break-introduction-to-time-complexity-of-algorithms-160m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
