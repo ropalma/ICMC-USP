@@ -253,6 +253,7 @@
     - Regra Número 2: Nunca esqueça a regra número 1
     - O risco vem de não saber o que você está fazendo.
     - Os investidores devem se lembrar que a excitação e os gastos são seus inimigos. E se insistirem em cronometrar a sua participação em ações, eles deveriam tentar ser medrosos quando os outros forem gananciosos e gananciosos quando os outros forem medrosos.
+    - Rentabilidade passado NÃO garante rentabilidade futura.
     - Alguém está sentado na sombra hoje porque alguém plantou uma árvore há muito tempo.
     - Procurando pessoas para contratar, você busca três qualidades: integridade, inteligência, e energia. E se elas não têm a primeira, as outras duas matarão você.
     - São necessários 20 anos para construir uma reputação e apenas cinco minutos para destruí-la.
