@@ -68,6 +68,8 @@
     - [EconoWeek](https://www.youtube.com/channel/UCZFNY5I0RnErV23CZAd-QuQ)
     - [EconoMirna](https://www.youtube.com/channel/UCwLxXLLWEIJFHEeTMlYqHTA)
     - [Maiara Xavier](https://www.youtube.com/user/mulherrica)
+    - [José Kobori](https://www.youtube.com/channel/UCOKSOW5uJHdW7Edz37mvAFw)
+    - [Economista Sincero](https://www.youtube.com/channel/UCrp0zmecZ3TNV8FSR-tjv7A)
  - Juros Compostos
     ```
     “Os juros compostos é a maior invenção da humanidade, porque permite uma confiável e sistemática acumulação de riqueza.” - Einstein

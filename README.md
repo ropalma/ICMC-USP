@@ -167,31 +167,37 @@
        - [BCrypt](https://en.wikipedia.org/wiki/Bcrypt)
     - NOT RECOMMENDED
        - [MD5](https://pt.wikipedia.org/wiki/MD5)
-       - [SHA1~2~256](https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/)
+       - [SHA1-2-256](https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/)
  - Tools
+    - Operation Systems
+       - [Kali Linux](https://www.kali.org/)
+       - [Tails Linux](https://tails.boum.org/index.pt.html)
     - Virtual Machines for Pentest
        - [PentesterLab](https://www.pentesterlab.com/exercises/)
        - [PentestBox](pentestbox.org)
           - [tools.pentestbox.org](https://tools.pentestbox.org/)
     - Transport Layer Security/Secure Sockets Layer
        - [Let's Encrypt](https://letsencrypt.org/)
-    - Software
+    - Softwares
        - [WireShark](https://www.wireshark.org/)
-       - [Exploit-DB](https://www.exploit-db.com/)
        - [metasploit](https://www.metasploit.com/)
-       - [SQLMap](http://sqlmap.org/)
-       - [$ nmap galhardoo.com](https://nmap.org/)
-       - [$ traceroute galhardoo.com](https://www.lifewire.com/traceroute-linux-command-4092586)
-       - [$ curl galhardoo.com](https://curl.haxx.se/)
-       - [$ whafw00f galhardoo.com](https://github.com/EnableSecurity/wafw00f)
-       - [$ ping galhardoo.com](https://www.wikiwand.com/en/Ping)
-       - [$ host galhardoo.com](https://www.computerhope.com/unix/host.htm)
-       - [$ whois galhardoo.com](https://who.is/)
-       - [DuckDuckGo](https://duckduckgo.com)
-       - [Bernes Lee Solid](https://solid.mit.edu/)
-       - [Beaker Browser](https://beakerbrowser.com)
-       - [TorProject](https://www.torproject.org/)
-          - [TheHiddenWiki](https://thehiddenwiki.org/)
+	   - DataBases
+	      - [Exploit-DB](https://www.exploit-db.com/)
+	      - [SQLMap](http://sqlmap.org/)
+	   - CLI
+	      - [$ nmap site_url](https://nmap.org/)
+	      - [$ traceroute site_url](https://www.lifewire.com/traceroute-linux-command-4092586)
+	      - [$ curl site_url](https://curl.haxx.se/)
+	      - [$ whafw00f site_url](https://github.com/EnableSecurity/wafw00f)
+	      - [$ ping site_url](https://www.wikiwand.com/en/Ping)
+	      - [$ host site_url](https://www.computerhope.com/unix/host.htm)
+	      - [$ whois site_url](https://who.is/)
+	   - Browser
+	      - [DuckDuckGo](https://duckduckgo.com)
+	      - [Bernes Lee Solid](https://solid.mit.edu/)
+	      - [Beaker Browser](https://beakerbrowser.com)
+	      - [TorProject](https://www.torproject.org/)
+	         - [TheHiddenWiki](https://thehiddenwiki.org/)
           
 ## Functional Programming
 
@@ -338,6 +344,7 @@
        - [Heroes 12 minutos](https://soundcloud.com/heroes-12min-podcast)
        - [Like a Boss](https://www.likeaboss.com.br/)
        - [Decrepitos](https://decrepitos.com/)
+       - [CarreiraSemFronteiras](https://www.carreirasemfronteiras.com.br)
        - [GunCast](https://blog.keeplearning.school/guncast)
        - [NerdCast](https://jovemnerd.com.br/nerdcast)
        - [PapriCast](http://paprica.org/categoria/papricast/)
